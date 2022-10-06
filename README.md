@@ -17,3 +17,6 @@ Kursuse keskkonnas kasutatavate Linuxi käskude jaoks soovitan kasutada: https:/
 ## Webhosting
 https://webhosting.tptlive.ee/
 
+## Githubi Education boonuste kasutamine
+https://education.github.com/pack
+
