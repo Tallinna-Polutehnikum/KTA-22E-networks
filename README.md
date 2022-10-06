@@ -8,7 +8,9 @@ Palun tehke läbi e-kursus:
 
 - https://www.udacity.com/course/networking-for-web-developers--ud256
 
-Kursuse keskkonnas kasutatavate Linuxi käskude jaoks soovitan kasutada: https://cloud.google.com/shell
+## Google Cloud shell
+- Kursuse keskkonnas kasutatavate Linuxi käskude jaoks soovitan kasutada: https://cloud.google.com/shell
+- Cloud Shelli saab kasutada 50 tundi nädalas. 
 
 ## Enne kasutamist käivita käsud:
 - sudo apt-get update
