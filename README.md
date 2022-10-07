@@ -13,8 +13,11 @@ Palun tehke läbi e-kursus:
 - Cloud Shelli saab kasutada 50 tundi nädalas. 
 
 ## Enne kasutamist käivita käsud:
-- sudo apt-get update
-- sudo apt-get install netcat-openbsd tcpdump traceroute mtr
+
+```
+sudo apt-get update
+sudo apt-get install netcat-openbsd tcpdump traceroute mtr
+```
 
 ## Webhosting
 https://webhosting.tptlive.ee/
