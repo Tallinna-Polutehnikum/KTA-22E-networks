@@ -24,3 +24,18 @@ https://webhosting.tptlive.ee/
 ## Githubi Education boonuste kasutamine
 https://education.github.com/pack
 
+## märkmed tunnist 20.10.22
+```
+sudo apt-get update # uuendab paketinimekirjad
+sudo apt-get upgrade # 
+
+control + z - pausile
+fg - toob tagasi esiplaanile
+bg - viib taustale
+kill %% 
+control + c - katkestab 
+
+ssh võtmed ja nende kasutamine 
+- Webhosting 
+- Github 
+```
