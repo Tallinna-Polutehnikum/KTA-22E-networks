@@ -48,3 +48,5 @@ ssh võtmed ja nende kasutamine
 - Krüpteerimine 
 - avaliku võtmega krüpteerime andmed (avalikuga enam avada ei saa).
 - salajasega saame avada
+
+## muudetud T238 arvutist.
