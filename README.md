@@ -2,7 +2,6 @@
 ## Arvutivõrgud
 
 
-
 - Toivo Pärnpuu
 Palun tehke läbi e-kursus:
 
@@ -26,6 +25,7 @@ https://education.github.com/pack
 
 ## märkmed tunnist 20.10.22
 ```
+
 sudo apt-get update # uuendab paketinimekirjad
 sudo apt-get upgrade # 
 
