@@ -39,3 +39,12 @@ ssh võtmed ja nende kasutamine
 - Webhosting 
 - Github 
 ```
+
+## Avalik / salajane võti
+- Autentimine
+
+- Autoriseerimine
+
+- Krüpteerimine 
+- avaliku võtmega krüpteerime andmed (avalikuga enam avada ei saa).
+- salajasega saame avada
