@@ -15,8 +15,7 @@ Palun tehke läbi e-kursus:
 ## Enne kasutamist käivita käsud:
 
 ```
-sudo apt-get update
-sudo apt-get install netcat-openbsd tcpdump traceroute mtr iputils-ping lsof
+sudo apt-get update && sudo apt-get install netcat-openbsd tcpdump traceroute mtr iputils-ping lsof
 ```
 
 ## Webhosting
